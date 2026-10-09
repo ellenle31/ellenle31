@@ -91,13 +91,49 @@ Estudos de modelagem de dados e banco de dados realizados durante a faculdade de
 <tr>
 <td width="50%" valign="top">
 
+
+<h2 align="left">03. / PROJECTS & EXPERIMENTS</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-UNDER%20CONSTRUCTION-D92532?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEVEL-BEGINNER-202020?style=flat-square"/>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 `01 — PROGRAMMING`
+
+**First steps in code**
+
+Exercícios e estudos desenvolvidos durante minha jornada aprendendo lógica de programação e linguagem C.
+
+<img src="https://img.shields.io/badge/C-LEARNING-2868DB?style=flat-square&logo=c&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ `02 — DATABASE`
+
+**Organizing information**
+
+Estudos de modelagem de dados e banco de dados durante a faculdade de ADS.
+
+<img src="https://img.shields.io/badge/DATABASE-EXPLORING-101114?style=flat-square&logo=mysql&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎨 `03 — CREATIVE TECH`
 
 **Design meets technology**
 
-Explorando interfaces, criatividade visual e ferramentas como Figma.
+Explorando interfaces, composição visual e a conexão entre design e desenvolvimento.
 
-<img src="https://img.shields.io/badge/DESIGN-EXPLORING-D92532?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-LEARNING-D92532?style=flat-square&logo=figma&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
@@ -106,9 +142,9 @@ Explorando interfaces, criatividade visual e ferramentas como Figma.
 
 **Work in progress...**
 
-Novas ideias, projetos acadêmicos e experimentos serão adicionados aqui conforme eu evoluir.
+Novas ideias, projetos acadêmicos e experimentos criativos serão adicionados aqui conforme eu desenvolver minhas habilidades.
 
-<img src="https://img.shields.io/badge/LOADING...-FFD166?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/COMING%20SOON-FFD166?style=flat-square&logoColor=black"/>
 
 </td>
 </tr>
@@ -116,11 +152,12 @@ Novas ideias, projetos acadêmicos e experimentos serão adicionados aqui confor
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=D92532&center=true&vCenter=true&width=500&lines=%3E+Experimentando...;%3E+Aprendendo...;%3E+Construindo+o+pr%C3%B3ximo+projeto..." alt="Terminal animado"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=D92532&center=true&vCenter=true&width=500&lines=%3E+Experimentando...;%3E+Aprendendo...;%3E+Preparando+o+pr%C3%B3ximo+projeto..." alt="Terminal animado"/>
 
 </div>
 
 ---
+
 
 
 ## `04. / CURRENT STATUS`
