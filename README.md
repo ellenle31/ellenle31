@@ -1,84 +1,80 @@
 
-<!--
-  ELLEN.EXE — ART × CODE × CHAOS
-  Personal GitHub profile
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:101114,45:8B101B,100:D92532&text=ELLEN%20LETÍCIA&fontColor=E9E0D0&fontSize=48&fontAlignY=40&desc=ART%20%C3%97%20CODE%20%C3%97%20CHAOS&descAlignY=62&descSize=16&animation=fadeIn" />
+<img src="./assets/nikaido.png" width="100%" alt="Pixel art da Nikaido — Dorohedoro"/>
 
 <br/>
 
-### `> Entre o caos e o código, construindo meu caminho.`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=D92532&center=true&vCenter=true&width=600&lines=ELLEN+LET%C3%8DCIA;ADS+STUDENT+%7C+CREATIVE+MIND;EXPLORING+TECHNOLOGY+%26+DESIGN" alt="Apresentação animada"/>
 
-**Estudante de ADS · Artista · Explorando tecnologia**
+**Análise e Desenvolvimento de Sistemas · Arte · Tecnologia**
 
-[![GitHub](https://img.shields.io/badge/GitHub-101114?style=for-the-badge&logo=github&logoColor=E9E0D0)](https://github.com/ellenle31)
-[![C](https://img.shields.io/badge/C-Em%20aprendizado-2868DB?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ellenle31)
-[![Design](https://img.shields.io/badge/Design%20%26%20Arte-D92532?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/ellenle31)
+[![GitHub](https://img.shields.io/badge/GitHub-101114?style=flat-square&logo=github&logoColor=white)](https://github.com/ellenle31)
+[![C](https://img.shields.io/badge/C-Learning-D92532?style=flat-square&logo=c&logoColor=white)](https://github.com/ellenle31)
+[![Figma](https://img.shields.io/badge/Figma-Exploring-101114?style=flat-square&logo=figma&logoColor=white)](https://github.com/ellenle31)
 
 </div>
 
 ---
 
-<img align="right" width="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2V4bTltcG9tYm1qZ2Q2b3J1N3Y0b3I0bmZ5dGJ4cGR0cGR4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" width="100" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Pixel art decorativa"/>
 
-## 🩸 `01 / QUEM SOU`
+## `01. / ABOUT ME`
 
-Oi! Eu sou a Ellen, estudante de **Análise e Desenvolvimento de Sistemas** pelo Senac, através do Embarque Digital.
+Oi! Sou a Ellen, estudante de **Análise e Desenvolvimento de Sistemas** pelo Senac, através do Embarque Digital.
 
-Estou no começo da minha jornada na programação, aprendendo lógica e linguagem C, enquanto exploro como a tecnologia pode se conectar com design, arte e criatividade.
+Estou no início da minha jornada na programação e explorando as possibilidades da tecnologia, especialmente onde ela encontra a criatividade.
 
-Não quero só aprender a escrever código. Quero descobrir o que consigo criar com ele.
-
-- 💻 Atualmente estudando lógica de programação e C.
+- 💻 Estudando lógica de programação e linguagem C.
 - 🎨 Explorando design de interfaces e Figma.
-- 🎮 Gamer de carteirinha e apaixonada por tecnologia.
-- 🖌️ Artista nas horas vagas — ou quase todas elas.
+- 🗄️ Desenvolvendo meus conhecimentos em banco de dados.
+- 🎮 Gamer, artista e curiosa por novas tecnologias.
 
 <br clear="right"/>
 
 ---
 
-## ⚙️ `02 / MEU INVENTÁRIO`
-
-| Categoria | Status |
-|:--|:--|
-| `PROGRAMMING` | C — em aprendizado |
-| `DESIGN` | Figma, Canva |
-| `ART` | Ilustração digital, Clip Studio Paint |
-| `NEXT LEVEL` | Banco de dados, desenvolvimento e novos projetos |
-
----
-
-## 🧪 `03 / EXPERIMENTOS`
-
-Ainda estou construindo minha coleção de projetos por aqui.
-
-Este perfil é meu espaço para registrar aprendizados, experimentar ideias e transformar exercícios em coisas que funcionam de verdade.
-
-> Todo mundo começa em algum lugar. O meu começa aqui.
-
-- [ ] Organizar meus exercícios de C.
-- [ ] Desenvolver meus primeiros projetos autorais.
-- [ ] Explorar a conexão entre design e programação.
-- [ ] Aprender, errar, corrigir e continuar.
-
----
-
-## 🎮 `04 / FORA DO TERMINAL`
-
-Mangás, jogos, ilustração, grafite e referências visuais que não saem da minha cabeça.
-
-**Influências:** Dorohedoro · pixel art · arte urbana · criatividade sem manual de instruções.
-
----
+## `02. / TECH & TOOLS`
 
 <div align="center">
 
-### `BUILDING MY OWN PATH, ONE COMMIT AT A TIME.`
+<img src="https://skillicons.dev/icons?i=c,figma,canva,mysql,git,github&theme=dark" alt="Tecnologias e ferramentas"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:D92532,55:8B101B,100:101114" />
+</div>
+
+> Algumas dessas ferramentas ainda fazem parte do meu aprendizado. Estou construindo minhas habilidades projeto por projeto.
+
+---
+
+## `03. / PROJECTS & EXPERIMENTS`
+
+Aqui registro meus estudos, projetos acadêmicos e experimentos criativos.
+
+- **Programming** — exercícios e projetos para praticar lógica e C.
+- **Database** — modelos e projetos de banco de dados.
+- **Creative technology** — ideias que conectam design e desenvolvimento.
+
+<div align="center">
+
+[![Repos](https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-D92532?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ellenle31?tab=repositories)
+
+</div>
+
+---
+
+## `04. / CURRENT STATUS`
+
+```text
+> Learning: C / Programming Logic
+> Exploring: UI Design / Databases
+> Interested in: Creative Technology
+> Status: Building, testing, learning...
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B101B" width="100%"/>
+
+<sub>Always learning. Always creating.</sub>
 
 </div>
