@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/nikaido.png" width="100%" alt="Pixel art da Nikaido — Dorohedoro"/>
+<img src="./nikaido.png" width="100%" alt="Nikaido em pixel art"/>
 
 <br/>
 
