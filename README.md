@@ -46,21 +46,82 @@ Estou no início da minha jornada na programação e explorando as possibilidade
 
 ---
 
-## `03. / PROJECTS & EXPERIMENTS`
 
-Aqui registro meus estudos, projetos acadêmicos e experimentos criativos.
+<h2 align="left">03. / PROJECTS & EXPERIMENTS</h2>
 
-- **Programming** — exercícios e projetos para praticar lógica e C.
-- **Database** — modelos e projetos de banco de dados.
-- **Creative technology** — ideias que conectam design e desenvolvimento.
+<p>
+  <img src="https://img.shields.io/badge/STATUS-UNDER%20CONSTRUCTION-D92532?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEVEL-BEGINNER-202020?style=flat-square"/>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 `01 — PROGRAMMING`
+
+**Primeiros passos no código**
+
+Exercícios e projetos desenvolvidos durante meus estudos de lógica de programação e linguagem C.
+
+<img src="https://img.shields.io/badge/C-LEARNING-2868DB?style=flat-square&logo=c&logoColor=white"/>
+
+<!-- Troque # pelo link do repositório quando criar o projeto -->
+<a href="https://github.com/ellenle31?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-D92532?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ `02 — DATABASE`
+
+**Organizando informações**
+
+Estudos de modelagem de dados e banco de dados realizados durante a faculdade de ADS.
+
+<img src="https://img.shields.io/badge/DATABASE-EXPLORING-101114?style=flat-square&logo=mysql&logoColor=white"/>
+
+<a href="https://github.com/ellenle31?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-D92532?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 `03 — CREATIVE TECH`
+
+**Design meets technology**
+
+Explorando interfaces, criatividade visual e ferramentas como Figma.
+
+<img src="https://img.shields.io/badge/DESIGN-EXPLORING-D92532?style=flat-square&logo=figma&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 `04 — NEXT EXPERIMENT`
+
+**Work in progress...**
+
+Novas ideias, projetos acadêmicos e experimentos serão adicionados aqui conforme eu evoluir.
+
+<img src="https://img.shields.io/badge/LOADING...-FFD166?style=flat-square&logoColor=black"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Repos](https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-D92532?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ellenle31?tab=repositories)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=D92532&center=true&vCenter=true&width=500&lines=%3E+Experimentando...;%3E+Aprendendo...;%3E+Construindo+o+pr%C3%B3ximo+projeto..." alt="Terminal animado"/>
 
 </div>
 
 ---
+
 
 ## `04. / CURRENT STATUS`
 
